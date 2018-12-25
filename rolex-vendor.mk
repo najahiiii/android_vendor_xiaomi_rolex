@@ -2408,7 +2408,6 @@ PRODUCT_PACKAGES += \
     QtiTelephonyService \
     ims \
     imssettings \
-    CNEService \
     com.qualcomm.location \
     qcrilmsgtunnel \
     TimeService \
